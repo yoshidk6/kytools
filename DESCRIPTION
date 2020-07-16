@@ -12,6 +12,8 @@ LazyData: true
 Suggests: 
     testthat,
     Rmisc,
+    PKNCA,
+    DescTools,
     roxygen2
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.0.9000
